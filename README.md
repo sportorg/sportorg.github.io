@@ -1,3 +1,3 @@
 # sportorg.github.io
 
-(https://sportorg.github.io/pysport/)[pysport] - SportOrg programm
+[pysport](https://sportorg.github.io/pysport/) - SportOrg programm
